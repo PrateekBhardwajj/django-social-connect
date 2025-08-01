@@ -1,0 +1,5 @@
+Django==5.2.4          # Latest Long Term Support release :contentReference[oaicite:1]{index=1}
+requests==2.32.4       # Latest version for HTTP calls :contentReference[oaicite:2]{index=2}}
+pytz                   # Timezone support (can omit '=') – still required
+django-cors-headers    # To enable cross-origin requests if needed (latest unspecified)
+mysqlclient            # Required if using MySQL in production (e.g. for analytics or production DB)
