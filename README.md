@@ -35,8 +35,10 @@ A Django-based dashboard that integrates Facebook and Instagram, allowing users 
 2. Create an app and configure:
    Facebook Login
    Permissions: pages_manage_posts, pages_read_engagement, instagram_basic
+
 3.Add OAuth redirect URI:
    http://localhost:8000/facebook/callback/
+
 4.Connect account from dashboard.
 
 ## Screenshots
@@ -54,4 +56,4 @@ A Django-based dashboard that integrates Facebook and Instagram, allowing users 
 ![Before Comment](screenshots/insta photo before comment.png)
 
 ### 5. Comment After Posting
-![After Comment](screenshots/photo-after-comment.png)
+![After Comment](screenshots/photo after comment.png)
