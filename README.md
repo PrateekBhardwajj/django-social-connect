@@ -39,3 +39,19 @@ A Django-based dashboard that integrates Facebook and Instagram, allowing users 
    http://localhost:8000/facebook/callback/
 4.Connect account from dashboard.
 
+## Screenshots
+
+### 1. Login Page
+![Login Page](screenshots/login-page.png)
+
+### 2. Dashboard
+![Dashboard](screenshots/dashboard-page.png)
+
+### 3. Instagram Post
+![Instagram Post](screenshots/instagram-post.png)
+
+### 4. Comment Before Posting
+![Before Comment](screenshots/insta-photo-before-comment.png)
+
+### 5. Comment After Posting
+![After Comment](screenshots/photo-after-comment.png)
